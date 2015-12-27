@@ -1,0 +1,390 @@
+TVisual Web
+v7
+r0
+t307851150.574920
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Info.plist" Visual_Web-Info.plist
+cCopyStringsFile "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/Blue2/Documents/iPhone Projects/Visual Web/English.lproj/MainMenu.xib"
+cCpResource "build/Debug/Visual Web.app/Contents/Resources/visual.icns" ../../../Desktop/visual.icns
+cProcessPCH /var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-gerveupqcgejlngzbzfyllaoybtx/Visual_Web_Prefix.pch.gch Visual_Web_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Visual Web.build/Debug/Visual Web.build/Objects-normal/x86_64/main.o" "/Users/Blue2/Documents/iPhone Projects/Visual Web/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Visual Web.build/Debug/Visual Web.build/Objects-normal/x86_64/Visual_WebAppDelegate.o" "/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/MacOS/Visual Web" normal x86_64
+cTouch "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/WebKit.framework/WebKit
+c000000004C5342AD00000000000789DC
+t1280524973
+s494044
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B5FA877000000000000A5E0
+t1264560247
+s42464
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/../../../Desktop/Rss black circle.png
+c000000004CA92C25000000000000A0A3
+t1286155301
+s41123
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/../../../Desktop/Visual.icns
+c000000004CA92E50000000000000C856
+t1286155856
+s51286
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/../../../Desktop/visual.icns
+c000000004CA92EFA000000000000D07A
+t1286156026
+s53370
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/English.lproj/InfoPlist.strings
+c000000004CA91627000000000000002D
+t1286149671
+s45
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/English.lproj/MainMenu.xib
+c000000004CA92B9A000000000002A3ED
+t1286155162
+s173037
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.h
+c000000004CA93C950000000000000148
+t1286159509
+s328
+i<Cocoa/Cocoa.h>
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m
+c000000004CA91627000000000000017C
+t1286149671
+s380
+i"Visual_WebAppDelegate.h"
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_Web_Prefix.pch
+c000000004CA916270000000000000097
+t1286149671
+s151
+i<Cocoa/Cocoa.h>
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app
+t1286158350
+s102
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Info.plist
+t1286156678
+s957
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/MacOS/Visual Web
+t1286158350
+s14608
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/PkgInfo
+t1286156678
+s8
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1286149679
+s92
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Resources/English.lproj/MainMenu.nib
+t1286155602
+s37083
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Resources/Rss black circle.png
+t1286155529
+s41123
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Resources/Visual.icns
+t1286155936
+s51286
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Resources/visual.icns
+t1286156068
+s53370
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/i386/Visual Web.LinkFileList
+c000000004CA938050000000000000107
+t1286158341
+s263
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/i386/Visual_WebAppDelegate.o
+t1286158345
+s15332
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/i386/main.o
+t1286158345
+s4876
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/ppc/Visual Web.LinkFileList
+c000000004CA937F30000000000000105
+t1286158323
+s261
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/ppc/Visual_WebAppDelegate.o
+t1286158326
+s15536
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/ppc/main.o
+t1286158326
+s5012
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/x86_64/Visual Web.LinkFileList
+c000000004CA9162E000000000000010B
+t1286149678
+s267
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/x86_64/Visual_WebAppDelegate.o
+t1286149684
+s21200
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/x86_64/main.o
+t1286149684
+s5008
+
+N/Users/Blue2/Documents/iPhone Projects/Visual Web/main.m
+c000000004CA916270000000000000100
+t1286149671
+s256
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-fkwvlptfhdwizsawqxcmjkkgmyzi/Visual_Web_Prefix.pch.gch
+t1286158344
+s56903472
+
+N/var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-gchiphjurywbxpeaqkcrfqfshapq/Visual_Web_Prefix.pch.gch
+t1286158326
+s53196368
+
+N/var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-gerveupqcgejlngzbzfyllaoybtx/Visual_Web_Prefix.pch.gch
+t1286149684
+s54265616
+
+NVisual_Web-Info.plist
+c000000004CA9317D00000000000003F8
+t1286156669
+s1016
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307851150#307851150#0(0"0(0#1#0"8604933056#0"0#
+
+CCompileC "build/Visual Web.build/Debug/Visual Web.build/Objects-normal/i386/Visual_WebAppDelegate.o" "/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307851144.878797
+e307851145.069680
+r1
+xCompileC
+xbuild/Visual Web.build/Debug/Visual Web.build/Objects-normal/i386/Visual_WebAppDelegate.o
+x/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m307851144#307851145#0(0"0(0#0#73"/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m8603928352#1681"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-generated-files.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-own-target-headers.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-all-target-headers.hmap" -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-project-headers.hmap" "-F/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/include" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources/i386" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources" -include /var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-fkwvlptfhdwizsawqxcmjkkgmyzi/Visual_Web_Prefix.pch -c "/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m" -o "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/i386/Visual_WebAppDelegate.o"0#
+
+CCompileC "build/Visual Web.build/Debug/Visual Web.build/Objects-normal/i386/main.o" "/Users/Blue2/Documents/iPhone Projects/Visual Web/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s307851144.877821
+e307851145.054302
+r1
+xCompileC
+xbuild/Visual Web.build/Debug/Visual Web.build/Objects-normal/i386/main.o
+x/Users/Blue2/Documents/iPhone Projects/Visual Web/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/Blue2/Documents/iPhone Projects/Visual Web/main.m307851144#307851145#0(0"0(0#0#56"/Users/Blue2/Documents/iPhone Projects/Visual Web/main.m8604792384#1647"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-generated-files.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-own-target-headers.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-all-target-headers.hmap" -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-project-headers.hmap" "-F/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/include" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources/i386" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources" -include /var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-fkwvlptfhdwizsawqxcmjkkgmyzi/Visual_Web_Prefix.pch -c "/Users/Blue2/Documents/iPhone Projects/Visual Web/main.m" -o "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Visual Web.build/Debug/Visual Web.build/Objects-normal/ppc/Visual_WebAppDelegate.o" "/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s307851126.639682
+e307851126.816867
+r1
+xCompileC
+xbuild/Visual Web.build/Debug/Visual Web.build/Objects-normal/ppc/Visual_WebAppDelegate.o
+x/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m307851126#307851126#0(0"0(0#0#73"/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m8605156160#1688"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-generated-files.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-own-target-headers.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-all-target-headers.hmap" -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-project-headers.hmap" "-F/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/include" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources/ppc" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources" -include /var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-gchiphjurywbxpeaqkcrfqfshapq/Visual_Web_Prefix.pch -c "/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m" -o "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/ppc/Visual_WebAppDelegate.o"0#
+
+CCompileC "build/Visual Web.build/Debug/Visual Web.build/Objects-normal/ppc/main.o" "/Users/Blue2/Documents/iPhone Projects/Visual Web/main.m" normal ppc objective-c com.apple.compilers.gcc.4_2
+s307851126.638372
+e307851126.825973
+r1
+xCompileC
+xbuild/Visual Web.build/Debug/Visual Web.build/Objects-normal/ppc/main.o
+x/Users/Blue2/Documents/iPhone Projects/Visual Web/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/Blue2/Documents/iPhone Projects/Visual Web/main.m307851126#307851126#0(0"0(0#0#56"/Users/Blue2/Documents/iPhone Projects/Visual Web/main.m3417213339966598656#1654"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-generated-files.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-own-target-headers.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-all-target-headers.hmap" -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-project-headers.hmap" "-F/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/include" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources/ppc" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources" -include /var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-gchiphjurywbxpeaqkcrfqfshapq/Visual_Web_Prefix.pch -c "/Users/Blue2/Documents/iPhone Projects/Visual Web/main.m" -o "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/ppc/main.o"0#
+
+CCompileC "build/Visual Web.build/Debug/Visual Web.build/Objects-normal/x86_64/Visual_WebAppDelegate.o" "/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s307842484.349426
+e307842484.586648
+r1
+xCompileC
+xbuild/Visual Web.build/Debug/Visual Web.build/Objects-normal/x86_64/Visual_WebAppDelegate.o
+x/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m307842484#307842484#0(0"0(0#0#73"/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m8604880448#1687"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-generated-files.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-own-target-headers.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-all-target-headers.hmap" -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-project-headers.hmap" "-F/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/include" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources/x86_64" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources" -include /var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-gerveupqcgejlngzbzfyllaoybtx/Visual_Web_Prefix.pch -c "/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_WebAppDelegate.m" -o "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/x86_64/Visual_WebAppDelegate.o"0#
+
+CCompileC "build/Visual Web.build/Debug/Visual Web.build/Objects-normal/x86_64/main.o" "/Users/Blue2/Documents/iPhone Projects/Visual Web/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s307842484.348431
+e307842484.578564
+r1
+xCompileC
+xbuild/Visual Web.build/Debug/Visual Web.build/Objects-normal/x86_64/main.o
+x/Users/Blue2/Documents/iPhone Projects/Visual Web/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/Blue2/Documents/iPhone Projects/Visual Web/main.m307842484#307842484#0(0"0(0#0#56"/Users/Blue2/Documents/iPhone Projects/Visual Web/main.m8601447264#1653"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-generated-files.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-own-target-headers.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-all-target-headers.hmap" -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-project-headers.hmap" "-F/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/include" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources/x86_64" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources" -include /var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-gerveupqcgejlngzbzfyllaoybtx/Visual_Web_Prefix.pch -c "/Users/Blue2/Documents/iPhone Projects/Visual Web/main.m" -o "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/Blue2/Documents/iPhone Projects/Visual Web/English.lproj/MainMenu.xib"
+s307848402.243952
+e307848402.579248
+r1
+xCompileXIB
+x/Users/Blue2/Documents/iPhone Projects/Visual Web/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/Blue2/Documents/iPhone Projects/Visual Web/English.lproj/MainMenu.xib:579: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib307848402#307848402#0(163"/* com.apple.ibtool.document.notices *//Users/Blue2/Documents/iPhone Projects/Visual Web/English.lproj/MainMenu.xib:579: note: This view is clipping its content.1(13@34"This view is clipping its content.307848402#18446744073709551615#0#0(6@76"/Users/Blue2/Documents/iPhone Projects/Visual Web/English.lproj/MainMenu.xib307847962#579#0#579#0#0"0(0#0#76"/Users/Blue2/Documents/iPhone Projects/Visual Web/English.lproj/MainMenu.xib8609030848#406"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/Blue2/Documents/iPhone Projects/Visual Web/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s307842478.443158
+e307842479.486759
+r1
+xCopyStringsFile
+x/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings307842478#307842479#0(0"0(0#0#81"/Users/Blue2/Documents/iPhone Projects/Visual Web/English.lproj/InfoPlist.strings8604792256#394"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Resources/English.lproj"0#
+
+CCpResource "build/Debug/Visual Web.app/Contents/Resources/Rss black circle.png" "../../../Desktop/Rss black circle.png"
+s307848329.895753
+e307848329.939725
+r1
+xCpResource
+xbuild/Debug/Visual Web.app/Contents/Resources/Rss black circle.png
+x../../../Desktop/Rss black circle.png
+lSLF07#2@42"Copy ../../../Desktop/Rss black circle.png307848329#307848329#0(0"0(0#0#87"/Users/Blue2/Documents/iPhone Projects/Visual Web/../../../Desktop/Rss black circle.png8605345984#395"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Blue2/Documents/iPhone Projects/Visual Web/../../../Desktop/Rss black circle.png" "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Visual Web.app/Contents/Resources/Visual.icns" ../../../Desktop/Visual.icns
+s307848736.735788
+e307848736.740720
+r1
+xCpResource
+xbuild/Debug/Visual Web.app/Contents/Resources/Visual.icns
+x../../../Desktop/Visual.icns
+lSLF07#2@33"Copy ../../../Desktop/Visual.icns307848736#307848736#0(0"0(0#0#78"/Users/Blue2/Documents/iPhone Projects/Visual Web/../../../Desktop/Visual.icns8614804640#386"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Blue2/Documents/iPhone Projects/Visual Web/../../../Desktop/Visual.icns" "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Resources"0#
+
+CCpResource "build/Debug/Visual Web.app/Contents/Resources/visual.icns" ../../../Desktop/visual.icns
+s307848868.266754
+e307848868.271707
+r1
+xCpResource
+xbuild/Debug/Visual Web.app/Contents/Resources/visual.icns
+x../../../Desktop/visual.icns
+lSLF07#2@33"Copy ../../../Desktop/visual.icns307848868#307848868#0(0"0(0#0#78"/Users/Blue2/Documents/iPhone Projects/Visual Web/../../../Desktop/visual.icns8614794016#386"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/Blue2/Documents/iPhone Projects/Visual Web/../../../Desktop/visual.icns" "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Resources"0#
+
+CLd "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/MacOS/Visual Web" normal i386
+s307851145.069774
+e307851145.107361
+r1
+xLd
+x/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/MacOS/Visual Web
+xnormal
+xi386
+lSLF07#2@107"Link /Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/MacOS/Visual Web307851145#307851145#0(0"0(0#0#0"8604949600#636"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug" "-F/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug" -filelist "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/i386/Visual Web.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework WebKit -o "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/MacOS/Visual Web"0#
+
+CLd "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/MacOS/Visual Web" normal ppc
+s307851126.826066
+e307851126.854390
+r1
+xLd
+x/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/MacOS/Visual Web
+xnormal
+xppc
+lSLF07#2@107"Link /Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/MacOS/Visual Web307851126#307851126#0(0"0(0#0#0"8607168736#634"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug" "-F/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug" -filelist "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/ppc/Visual Web.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework WebKit -o "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/MacOS/Visual Web"0#
+
+CLd "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/MacOS/Visual Web" normal x86_64
+s307851150.533301
+e307851150.572216
+r1
+xLd
+x/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/MacOS/Visual Web
+xnormal
+xx86_64
+lSLF07#2@107"Link /Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/MacOS/Visual Web307851150#307851150#0(0"0(0#0#0"8605064992#640"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug" "-F/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug" -filelist "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Objects-normal/x86_64/Visual Web.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -framework WebKit -o "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/MacOS/Visual Web"0#
+
+CProcessInfoPlistFile "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Info.plist" Visual_Web-Info.plist
+s307849478.421242
+e307849478.432800
+r1
+xProcessInfoPlistFile
+x/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Info.plist
+xVisual_Web-Info.plist
+lSLF07#2@29"Process Visual_Web-Info.plist307849478#307849478#0(0"0(0#0#71"/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_Web-Info.plist8607920000#358"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    builtin-infoPlistUtility Visual_Web-Info.plist -genpkginfo "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-fkwvlptfhdwizsawqxcmjkkgmyzi/Visual_Web_Prefix.pch.gch Visual_Web_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s307851141.814583
+e307851144.877648
+r1
+xProcessPCH
+x/var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-fkwvlptfhdwizsawqxcmjkkgmyzi/Visual_Web_Prefix.pch.gch
+xVisual_Web_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Visual_Web_Prefix.pch307851141#307851144#0(0"0(0#0#71"/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_Web_Prefix.pch8604787040#1539"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-generated-files.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-own-target-headers.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-all-target-headers.hmap" -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-project-headers.hmap" "-F/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/include" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources/i386" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources" -c "/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_Web_Prefix.pch" -o /var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-fkwvlptfhdwizsawqxcmjkkgmyzi/Visual_Web_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-gchiphjurywbxpeaqkcrfqfshapq/Visual_Web_Prefix.pch.gch Visual_Web_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s307851123.687492
+e307851126.638119
+r1
+xProcessPCH
+x/var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-gchiphjurywbxpeaqkcrfqfshapq/Visual_Web_Prefix.pch.gch
+xVisual_Web_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Visual_Web_Prefix.pch307851123#307851126#0(0"0(0#0#71"/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_Web_Prefix.pch7090169255716549632#1547"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-generated-files.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-own-target-headers.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-all-target-headers.hmap" -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-project-headers.hmap" "-F/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/include" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources/ppc" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources" -c "/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_Web_Prefix.pch" -o /var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-gchiphjurywbxpeaqkcrfqfshapq/Visual_Web_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-gerveupqcgejlngzbzfyllaoybtx/Visual_Web_Prefix.pch.gch Visual_Web_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s307842480.496696
+e307842484.348247
+r1
+xProcessPCH
+x/var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-gerveupqcgejlngzbzfyllaoybtx/Visual_Web_Prefix.pch.gch
+xVisual_Web_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Visual_Web_Prefix.pch307842480#307842484#0(0"0(0#0#71"/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_Web_Prefix.pch8600275072#1543"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-generated-files.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-own-target-headers.hmap" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-all-target-headers.hmap" -iquote "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/Visual Web-project-headers.hmap" "-F/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/include" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources/x86_64" "-I/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Visual Web.build/Debug/Visual Web.build/DerivedSources" -c "/Users/Blue2/Documents/iPhone Projects/Visual Web/Visual_Web_Prefix.pch" -o /var/folders/Fp/FpSQzEwNGW0QTd+kWulbXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Visual_Web_Prefix-gerveupqcgejlngzbzfyllaoybtx/Visual_Web_Prefix.pch.gch0#
+
+CTouch "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app"
+s307851150.572312
+e307851150.574867
+r1
+xTouch
+x/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app
+lSLF07#2@82"Touch /Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app307851150#307851150#0(0"0(0#0#0"8605117568#160"    cd "/Users/Blue2/Documents/iPhone Projects/Visual Web"    /usr/bin/touch -c "/Users/Blue2/Documents/iPhone Projects/Visual Web/build/Debug/Visual Web.app"0#
+
